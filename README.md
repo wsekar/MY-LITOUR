@@ -5,5 +5,5 @@ Dengan memanfaatkan teknologi kamera 360 derajat, potensi-potensi wilayah Kabupa
 Sistem informasi ini merupakan implementasi dari gerakan Literasi Nasional di Indonesia, khususnya literasi budaya dan kewarganegaraan.
 
 # Akun Admin
-username : dispusipmadiun <br/>
-password : dispusipmadiun
+username : dispusip <br/>
+password : dispusip
